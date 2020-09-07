@@ -27,6 +27,9 @@ export const MainEditor: React.FC<PanelEditorProps<PanelOptions>> = ({ options, 
             <option value="n211_backward">211 Backwards</option>
             <option value="n212_toward">212 Towards</option>
             <option value="n212_backward">212 Backwards</option>
+            <option value="n244_toward">244 Towards</option>
+            <option value="n244_backward">244 Backwards</option>
+            <option value="n232">232</option>
           </select>
         </div>
       </div>
